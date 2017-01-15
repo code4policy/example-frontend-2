@@ -1,0 +1,35 @@
+/*
+  prefix everything with #line-chart so that it doesn't conflict
+  with bubble-chart.css, chart3.css etc.
+*/
+
+#line-chart .hover-text {
+  font: 10px sans-serif;
+}
+
+#line-chart .axis path,
+#line-chart .axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+#line-chart .axis--x path {
+  display: none;
+}
+
+#line-chart .line {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+}
+
+#line-chart .overlay {
+  fill: none;
+  pointer-events: all;
+}
+
+#line-chart .focus circle {
+  fill: none;
+  stroke: steelblue;
+}
