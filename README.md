@@ -8,5 +8,5 @@ It is published on the master branch here: https://dmil.github.io/example-fronte
 Back End https://github.com/dmil/example-backend
 
 ## FRONT
-- github: https://github.com/dmil/example-backend
-- website: https://dmil.github.io/example-frontend-2/
+- github: https://github.com/dmil/example-backend-2
+- website: https://dmil.github.io/example-frontend-2
